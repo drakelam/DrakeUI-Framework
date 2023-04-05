@@ -12,6 +12,7 @@ Thank you very much.
 
 Donate:
 
-- BTC: bc1q6f6k92fj6fwu00j8gc7lzsx0cr7wl94nh3hnnr
-
-- ETH: 0x80136111091e8B47888a93Dc79AB973888Ae5AAa
+BTC
+bc1qfhlp82rydj0awjl8xhrl828ewqy0d8mnupx956
+ETH
+0x370e0697F8Fc7dD4Bdd8198E90c20acBBB00e85E
